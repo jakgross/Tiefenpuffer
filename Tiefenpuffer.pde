@@ -4,6 +4,8 @@ import processing.dxf.*;
 
 /////////////////////////////////////////////////////////////////////
 // 
+// (c) Jakobus Groß
+// 
 // visualizes z-Buffer of different Voronoi-cunstructions
 // implemented for 
 // - points

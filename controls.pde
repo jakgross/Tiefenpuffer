@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////
+// 
+// (c) Jakobus Groß
+//
+// this tab contains some methods for creating individual colors
+//
+/////////////////////////////////////////////////////////////////////
+
+// Key-Bindings for different functionst
+// press "2" while programm is running or watch tab "osd" for details
 void keyPressed()
 {
     if(key == 'k') {
